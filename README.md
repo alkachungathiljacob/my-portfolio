@@ -9,7 +9,8 @@
 ---
 
 ## 📷 Preview
-<img width="1920" height="1080" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/3971d787-8efe-4d9e-a1d7-2cc35c5573a3" />
+<img width="1827" height="938" alt="Screenshot (153)" src="https://github.com/user-attachments/assets/2edce2aa-174c-41d5-94f9-bbefa652b7e3" />
+
 
 
 ---
